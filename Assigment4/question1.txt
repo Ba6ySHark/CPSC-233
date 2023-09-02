@@ -1,0 +1,6 @@
+
+Item: Pizza Price: 9.99 Count: 2 Total: 19.98
+Item: Milk Price: 4.59 Count: 1 Total: 4.59
+Item: Bread Price: 2.49 Count: 3 Total: 7.470000000000001
+Total: 32.04
+
